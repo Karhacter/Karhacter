@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Karhacter</h1>
+<h1 align="center">Hi👋, I'm Mysterious Guy</h1>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi there, My name is Khánh , my nickname is Karhacter, I'm just a student from College , But my knowledge is diversity.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Python , FastAPI<br>- ⚡ In my free time I reading Light Novel</p>
+<p align="left">My name is Khánh, but you can call me Karhacter. I’m a college student with a diverse set of knowledge and interests.<br><br>🌱 I’m focusing on Frontend Development<br><br>📚 I’m currently learning Python and FastAPI<br><br>⚡ In my free time, I enjoy reading Light Novels<br><br>I’m actively seeking an internship opportunity where I can apply my skills, gain practical experience, and contribute to real-world projects.</p>
 
 ###
 
